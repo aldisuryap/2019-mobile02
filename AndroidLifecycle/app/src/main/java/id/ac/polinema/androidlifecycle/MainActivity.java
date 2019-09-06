@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
 	}
 
 	// TODO: tambahkan callback onStart() di sini
-//	tesatas
+//	tesatasasdas
 
 	// TODO: tambahkan callback onStop() di sini
 
